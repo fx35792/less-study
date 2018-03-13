@@ -283,7 +283,3 @@ ul li a em
 //或者 @import (less) 'reset';或者 @import (less) 'reset.less';
 @import (less) 'a.css';
 ```
-
-
-
-![](https://github.com/fx35792/less-study/blob/master/images/img.png)
