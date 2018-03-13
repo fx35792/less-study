@@ -4,17 +4,17 @@
 LESS类似于jquery，less css是一种动态格式语言，属于css预处理语言的一种，它使用类似css的语法，为css赋予了动态语言的特性，如变量，继承，运算，函数等，更方便css的编写和维护。
 ## 二、编译工具
 1.koala
-国人开发的less/sass编译工具
-下载地址：http://koala-app.com/index-zh.html
-2.node.js库
-3.浏览器端使用
+国人开发的less/sass编译工具  
+下载地址：http://koala-app.com/index-zh.html  
+2.node.js库  
+3.浏览器端使用  
 ## 三、LESS里面的注释
-```
+```  
 第一种：
 /*第一种注释*/
 第二种：
 //第二种注释
-```
+```  
 注:第一种注释koala会进行编译出来，而第二种注释koala不会编译出来
 ## 四、变量
 想声明一个变量的话一定要用：@开头，如下面：
