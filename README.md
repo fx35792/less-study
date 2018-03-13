@@ -1,2 +1,2 @@
 # less-study
-![图一]('./images/图一.png')
+![](https://github.com/fx35792/less-study/blob/master/images/img.png)
